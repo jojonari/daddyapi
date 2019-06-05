@@ -1,0 +1,7 @@
+GET localhost/v1/user
+
+###
+
+POST localhost/v1/user
+
+###
